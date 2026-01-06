@@ -59,7 +59,7 @@ The project utilizes the **Xception** model as a feature extractor.
 
 The project is organized into three main Python scripts:
 
-Run the below command to install dependencies:
+Run the below command to install dependencies (`requirements.txt` is inside the Docker folder):
 ```
 pip install -r requirements.txt
 ```
